@@ -10,6 +10,7 @@ h1{
 
 .dogphoto{
     height:250px;
+    
 }
 
 span {
@@ -19,16 +20,19 @@ span {
     height: 85px;
     width: 100px;
     text-align: center;
+    
+    
+    
 }
-
-.card{
-    display: inline-block;
-}
-
 
 .box{
     height: 400px;
-    width: 600px;
+    width: 400px;
     text-align: center;
+    display: inline-block;
+}
+
+.wordtraits{
+    margin: 40px;
 
 }
