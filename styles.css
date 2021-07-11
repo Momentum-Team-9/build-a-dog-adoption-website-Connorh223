@@ -36,3 +36,24 @@ span {
     margin: 40px;
 
 }
+
+.initialtext{
+    margin-left: 50px;
+    border-style: unset;
+    border-block-end: saddlebrown;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #A6A9F0;
+    
+}
+
+
+.lastpics{
+    height: 280px;
+    width: 415px;
+    
+}
