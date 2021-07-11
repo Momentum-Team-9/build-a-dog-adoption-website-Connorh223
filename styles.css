@@ -40,20 +40,39 @@ span {
 .initialtext{
     margin-left: 50px;
     border-style: unset;
-    border-block-end: saddlebrown;
+    
 }
 
 .container{
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
     background-color: #A6A9F0;
-    
+
 }
 
+.box1{
+    background-image: url(starter_files/images/donate.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 290px;
+    width: 440px;
+}
 
-.lastpics{
-    height: 280px;
-    width: 415px;
-    
+.box2{
+    background-image: url(starter_files/images/volunteer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 290px;
+    width: 440px;
+}
+
+.box3{
+    background-image: url(starter_files/images/location.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 290px;
+    width: 440px;
 }
