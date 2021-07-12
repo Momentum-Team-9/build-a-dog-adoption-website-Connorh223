@@ -55,13 +55,17 @@ span {
 }
 
 .box1{
-    background-image: url(starter_files/images/donate.jpg);
+    background-image: linear-gradient(rgba(166, 169, 240, 0.45), rgba(166, 169, 240, 0.45)),  url(starter_files/images/donate.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 290px;
     width: 440px;
     text-align: center;
     color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 33.3;
     
 }
 
@@ -73,6 +77,10 @@ span {
     width: 440px;
     text-align: center;
     color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 33.3;
 
 }
 
@@ -84,6 +92,10 @@ span {
     width: 440px;
     text-align: center;
     color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 33.3;
 
 }
 
